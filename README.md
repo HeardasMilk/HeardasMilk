@@ -4,7 +4,7 @@
 - 💞️ Liên hệ : 0981874050
 - 😄 Để mua thêm truy ngay tại:heardas.com
 - ⚡Địa chỉ:Nam Từ liêm Hà Nội
-
+- 😄 Cảm ơn đã dành quan tâm cho nhãn hàng của chúng tôi
 <!---
 HeardasMilk/HeardasMilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
