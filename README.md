@@ -1,11 +1,15 @@
-- 👋 Heardas Milk – Dịch Vụ Sữa Chua Sữa Hạt Tươi Ngon, Lành Mạnh
-- 👀Bạn muốn mua loại sữa nào
-- 🌱Chào mừng bạn đến với Heardas Milk, nơi mang đến những sản phẩm sữa chua sữa hạt tươi ngon và bổ dưỡng, được chế biến từ nguyên liệu tự nhiên, đảm bảo sức khỏe cho bạn và gia đình. Chúng tôi tự hào là thương hiệu cung cấp sữa chua sữa hạt chất lượng cao, với sự kết hợp hoàn hảo giữa sữa hạt và các thành phần tự nhiên, tạo nên một món ăn không chỉ thơm ngon mà còn rất giàu dinh dưỡng.
-- 💞️ Liên hệ : 0981874050
-- 😄 Để mua thêm truy ngay tại:heardas.com
-- ⚡Địa chỉ:Nam Từ liêm Hà Nội
-- 😄 Cảm ơn đã dành quan tâm cho nhãn hàng của chúng tôi
-<!---
+🌟 SALE LƯƠNG VỀ - GIẢI NHIỆT CỰC SỐC CÙNG HEARDAS MILK TEA 🌟
+🔥 DUY NHẤT NGÀY 25/3 - Cơ hội "chốt đơn" cực hời dành riêng cho team đam mê trà sữa! 🔥
+🎉 Giảm sốc đến 50% tất cả các món trong menu - Từ trà sữa béo ngậy, topping đầy ắp đến những món trà thanh mát đều đồng loạt giảm giá!
+🎉 Nhập mã: HEARDAS25 - Giảm thêm 25K cho đơn hàng của bạn!
+🎉 Free Ship toàn quốc - Ngại gì không "order" cả thế giới Heardas về nhà!
+💥 Chỉ áp dụng trong ngày 25/3 - Nhanh tay kẻo lỡ! 💥
+🛒 Đặt hàng ngay tại: [https://vn.shp.ee/GJhme58]  
+📲 heardas.com  
+☎️ 0985081629  
+🏠 Liên Mạc, Bắc Từ Liêm, Hà Nội  
+📌 Đặt hàng ngay tại Shopee của Heardas Milk Tea hoặc mua hàng trực tiếp tại cửa hàng Heardas Milk Tea để không bỏ lỡ deal xịn này nhé!
+#HeardasMilkTea #SaleLươngVề #GiảmSốcĐến50 #FreeshipToànQuốc #Heardas25 #TràSữaNgon #Ngày25Tháng3
 HeardasMilk/HeardasMilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
